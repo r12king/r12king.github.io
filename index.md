@@ -4,12 +4,9 @@ I am a data scientist/statistician and MS with skills in SAS, Python, R, and Tab
 I currently work for General Motors using cutting edge tools to solve real world business problems with high impact.
 
 ## History
-born in Memphis, Tennessee
+born and raised in Memphis, Tennessee
+lived in Raleigh, NC
 living in Detroit
-
-born in India
-grew up in New Jersey, the Garden State
-living in New York City
 
 ## Education
 MS in advanced analytics from The Institute for Advanced Analytics at NC State University
@@ -20,7 +17,6 @@ coding
 data viz
 soccer
 binge watching Netflix original series
-
 
 
 ## Welcome to GitHub Pages
