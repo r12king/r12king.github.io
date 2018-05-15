@@ -1,15 +1,15 @@
 ## About Me
-
-I am a data scientist/statistician and MS with skills in SAS, Python, R, and Tableau.
-I currently work for General Motors using cutting edge tools to solve real world business problems with high impact.
+- I am a data scientist / sr. statistician and MS with skills in SAS, Python, R, and Tableau.
+- I currently work for General Motors developing and applying advanced analytical models to solve real world business problems with high impact.
 
 ## History
-born and raised in Memphis, Tennessee
-lived in Raleigh, NC
-living in Detroit
+- born and raised in Memphis, Tennessee
+- lived in Raleigh, NC
+- living in Detroit
 
 ## Education
-MS in advanced analytics from The Institute for Advanced Analytics at NC State University
+- MS in advanced analytics from The Institute for Advanced Analytics at NC State University
+- BS in mechanical engineering from NC State University
 
 ## What I love, in no particular order
 coffee
