@@ -1,5 +1,5 @@
 ## About Me
-- I am a data scientist / sr. statistician and MS with skills in SAS, Python, R, and Tableau.
+- I am a Data Scientist / Sr. Statistician and M.S. with skills in SAS, Python, R, and Tableau.
 - I currently work for General Motors in Finance and Operations Research, developing and applying advanced analytical models to solve real world business problems with high impact.
 - You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rmking4/)
 
