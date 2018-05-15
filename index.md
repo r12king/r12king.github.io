@@ -8,7 +8,7 @@
 - lived in Raleigh, North Carolina
 - living in Detroit, Michigan
 
-## Education :mortar_board:
+## Education
 - M.S. in Advanced Analytics from The Institute for Advanced Analytics at NC State University
 - B.S. in Mechanical Engineering from NC State University
 
