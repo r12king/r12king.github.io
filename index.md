@@ -1,23 +1,28 @@
 ## About Me
 - I am a data scientist / sr. statistician and MS with skills in SAS, Python, R, and Tableau.
-- I currently work for General Motors developing and applying advanced analytical models to solve real world business problems with high impact.
+- I currently work for General Motors in Finance and Operations Research, developing and applying advanced analytical models to solve real world business problems with high impact.
+- You can also connect with me on [LinkedIn](https://www.linkedin.com/in/rmking4/)
 
 ## History
 - born and raised in Memphis, Tennessee
-- lived in Raleigh, NC
-- living in Detroit
+- lived in Raleigh, North Carolina
+- living in Detroit, Michigan
 
 ## Education
-- MS in advanced analytics from The Institute for Advanced Analytics at NC State University
-- BS in mechanical engineering from NC State University
+- M.S. in Advanced Analytics from The Institute for Advanced Analytics at NC State University
+- B.S. in Mechanical Engineering from NC State University
 
 ## What I love, in no particular order
-coffee
-coding
-data viz
-soccer
-binge watching Netflix original series
+- coffee
+- coding
+- data viz
+- soccer
+- anything outdoorsy (hiking, camping, kayaking)
+- binge watching Netflix original series
 
+
+
+### ignore code below this line for now...
 
 ## Welcome to GitHub Pages
 
