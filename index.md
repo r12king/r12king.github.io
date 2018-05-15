@@ -1,3 +1,28 @@
+## About Me
+
+I am a data scientist/statistician and MS with skills in SAS, Python, R, and Tableau.
+I currently work for General Motors using cutting edge tools to solve real world business problems with high impact.
+
+## History
+born in Memphis, Tennessee
+living in Detroit
+
+born in India
+grew up in New Jersey, the Garden State
+living in New York City
+
+## Education
+MS in advanced analytics from The Institute for Advanced Analytics at NC State University
+
+## What I love, in no particular order
+coffee
+coding
+data viz
+soccer
+binge watching Netflix original series
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/r12king/r12king.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
